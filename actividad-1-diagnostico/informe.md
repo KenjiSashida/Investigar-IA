@@ -2,8 +2,8 @@
 
 **Caso:** Predicciones bajo presión: el desafío analítico de Lumina Datos Operativos
 **Programa:** Maestría en Inteligencia Artificial
-**Alumno:** _[Nombre completo]_
-**Matrícula:** _[Matrícula]_
+**Alumno:** Kenji Octavio Sashida Goujon
+**Matrícula:** AL07340721
 **Profesor:** _[Nombre del profesor]_
 **Fecha:** _[Fecha de entrega]_
 
