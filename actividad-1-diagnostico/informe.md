@@ -78,7 +78,7 @@ flowchart LR
 
 ### 5.2 Programación en Python
 
-Python es un lenguaje de propósito general, fácil de aprender y con miles de bibliotecas para trabajar con datos. Es el estándar entre científicos de datos, ingenieros de datos e investigadores de IA, y sirve tanto para prototipos rápidos como para proyectos complejos (McKinney, 2022). Para Lumina, esto permite:
+El caso establece que la solución debe construirse en Python con librerías especializadas de su ecosistema. Para Lumina, esto permite:
 
 - Pasar de hojas de cálculo y scripts sueltos a una **librería modular** organizada en **funciones, clases y módulos reutilizables**.
 - Usar bibliotecas especializadas y probadas:
