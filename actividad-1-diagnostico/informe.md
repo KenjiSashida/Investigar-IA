@@ -5,7 +5,7 @@
 **Alumno:** Kenji Octavio Sashida Goujon
 **Matrícula:** AL07340721
 **Profesor:** _[Nombre del profesor]_
-**Fecha:** _[Fecha de entrega]_
+**Fecha de entrega:** 24 de octubre de 2026 (Avance 1)
 
 ---
 
