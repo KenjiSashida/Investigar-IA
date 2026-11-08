@@ -232,6 +232,8 @@ Diez números, revisados cada lunes en 30 minutos, bastan para dirigir la clíni
 | Quién atiende el 10 % restante y con qué esquema de pago | Qué tan rápido se puede delegar |
 | Cuántas personas han pasado por recepción en el último año | Si el problema es de la persona, del puesto o del sueldo |
 
+El cuestionario completo, por área y con prioridades, está en [cuestionario-diagnostico-clinica-dental.md](cuestionario-diagnostico-clinica-dental.md).
+
 ## Referencias
 
 - Gerber, M. E. (1995). *The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It*. HarperCollins. En español: *El mito del emprendedor*.
